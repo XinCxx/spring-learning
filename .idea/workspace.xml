@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a944c0a-7afa-4f95-bbf5-07af0f479f3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/IoCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/SetterDITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/entity/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/entity/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/entity/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/xinc/spring/ioc/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Md8yiCKzC0jHxPoUf63useAXZ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BookTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xinc.spring.ioc.AnimalTest" />
+      <module name="spring-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xinc.spring.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xinc.spring.ioc.BookTest" />
+      <module name="spring-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xinc.spring.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IoCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xinc.spring.ioc.IoCTest" />
+      <module name="spring-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xinc.spring.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xinc.spring.ioc.PersonTest" />
+      <module name="spring-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xinc.spring.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetterDITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xinc.spring.ioc.SetterDITest" />
+      <module name="spring-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xinc.spring.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.SetterDITest" />
+        <item itemvalue="Application.IoCTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a944c0a-7afa-4f95-bbf5-07af0f479f3e" name="Changes" comment="" />
+      <created>1678086354823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678086354823</updated>
+      <workItem from="1678086355860" duration="9373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
